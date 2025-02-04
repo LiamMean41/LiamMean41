@@ -1,4 +1,4 @@
-= Greetings there, I'm Liam Moss
-= I have a wide interesting Software development and in Robotics
-= I’m currently learning Java and C#, For Software Development and Object Oreinted Programming
-= I can reached out on email at liammoss289@gmail.com
+= Greetings and salutations, I'm Liam.
+= I have a wide interesting Software development, Robotics, Mirco controllers and Mechatronics.
+= I’m currently a student in Computer Science Year 2.
+= You can view my blog Website @ www.Moss41.ie
