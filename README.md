@@ -1,4 +1,9 @@
-= Greetings and salutations, I'm Liam.
-= I have a wide interesting Software development, Robotics, Mirco controllers and Mechatronics.
-= I’m currently a student in Computer Science Year 2.
-= You can view my blog Website @ www.Moss41.ie
+# Hello, I'm Liam!
+
+I have a strong passion for software development, robotics, microcontrollers, and mechatronics.
+
+I'm currently a second-year Computer Science student with expertise in Java, Python, and various other frameworks showcased in my portfolio.
+
+As part of a team of four, we proudly secured the **Runner-Up** position at the Hack Ireland Hackathon with our project *Neutralize*.
+
+Feel free to check out my blog at [www.Moss41.ie](http://www.moss41.ie).
