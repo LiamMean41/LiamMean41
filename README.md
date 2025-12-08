@@ -2,7 +2,7 @@
 
 I have a strong passion for software development, robotics, microcontrollers, and mechatronics.
 
-I'm currently a second-year Computer Science student with expertise in Java, Python, and various other frameworks showcased in my portfolio.
+I'm currently a Apprentice Software Engineer with expertise in Java, Python, and various other frameworks showcased in my portfolio.
 
 As part of a team of four, we proudly secured the **Runner-Up** position at the Hack Ireland Hackathon with our project *[Neutralize](https://github.com/RobbyLinson/Hack-Ireland---Group-11)*.
 
