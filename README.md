@@ -58,3 +58,4 @@ As part of a four-person team, we secured Runner-Up at the **Hack Ireland Hackat
 [![Instagram](https://img.shields.io/badge/@moss41.ie-E1306C?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/moss41.ie)
 [![Blog](https://img.shields.io/badge/moss41.ie-0C444C?style=flat-square&logo=safari&logoColor=white)](https://www.Moss41.ie)
 [![GitHub](https://img.shields.io/badge/LiamMean41-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/LiamMean41)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:liammoss289@gmail.com)
