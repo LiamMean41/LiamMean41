@@ -41,6 +41,12 @@ As part of a four-person team, we secured Runner-Up at the **Hack Ireland Hackat
 
 ---
 
+## 🎯 Interests
+
+`Robotics` `Microcontrollers` `Mechatronics` `Amateur Radio` `Motorcycle mechanics` `Self-hosted infrastructure` `Linux Operating Systems`
+
+---
+
 ## Awards
 
 ▸ Runner-up at the **Hack Ireland Hackathon 2025** (Neutralize Project)
