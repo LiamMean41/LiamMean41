@@ -7,7 +7,7 @@
 
 ## About me
 
-I'm an Apprentice Software Engineer with a strong passion for software development, robotics, microcontrollers, and mechatronics. I build things that live at the intersection of code and hardware — from Android apps to Arduino controllers to self-hosted home infrastructure.
+I'm an Apprentice Software Engineer with a strong passion for software development, robotics, microcontrollers, and mechatronics. I build things that live at the intersection of code and hardware. From Android apps to Arduino controllers to self-hosted home infrastructure.
 
 As part of a four-person team, we secured Runner-Up at the **Hack Ireland Hackathon** with our project [Neutralize](https://github.com/RobbyLinson/Hack-Ireland---Group-11). Feel free to check out my blog at [moss41.ie](https://www.Moss41.ie).
 
@@ -31,12 +31,27 @@ As part of a four-person team, we secured Runner-Up at the **Hack Ireland Hackat
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat-square&logo=cypress&logoColor=69D3A7)
 
-**Tools & platforms**
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+
+**Databases**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+**DevOps & cloud**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
+![Camunda](https://img.shields.io/badge/Camunda-FC5D0D?style=flat-square&logo=camunda&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Tools & platforms**
+
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00878A?style=flat-square&logo=arduino&logoColor=white)
 
 ---
